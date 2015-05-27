@@ -1,4 +1,4 @@
-FROM numpy-pandas
+FROM jjuanda/numpy-pandas
 
 MAINTAINER Juan Daniel López Serna
 
